@@ -1,0 +1,56 @@
+.container1
+{
+    
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row;
+    align-items:flex-start;
+}
+.container2
+{
+    background-color:red;
+    color:burlywood;
+    display:flex;
+    justify-content:center;
+    flex-direction:row;
+}
+.container3
+{  
+    display:flex;
+    justify-content:space-around;
+    flex-direction: row;
+    align-items:flex-end;
+}
+#b
+{
+    background-color: aqua;
+}
+#a
+{
+    background-color: blue;
+
+}
+#r
+{
+    background-color: purple;
+}
+#e
+{
+    background-color: orange;
+}
+#c
+{
+    background-color: green;
+}
+#p
+{
+    background-color:blue; 
+}
+#m
+{
+    background-color: orange;
+}
+#l
+{
+    background-color: purple;
+}
